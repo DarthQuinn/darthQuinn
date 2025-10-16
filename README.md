@@ -1,9 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, Soy Jean Siabato 👋</h1>
 </div>
-<!--<img src="file:///C:/Users/JeanN/OneDrive/Im%C3%A1genes/Blue%20Green%20Geometric%20Company%20LinkedIn%20Banner.png">--!>
+<img src="https://ibb.co/hJ6jDMV9>
 
-![Mi imagen]("https://file:///C:/Users/JeanN/OneDrive/Im%C3%A1genes/Blue%20Green%20Geometric%20Company%20LinkedIn%20Banner.png")
+
 ## Sobre mi
 
 -  Detrás de cada proceso hay un patrón que puede optimizarse, descubrirlo y mejorarlo es lo que me motiva a analizar los datos. Me fascina entender cómo los datos transforman la eficiencia de cada línea de producción y mejoran los resultados.
