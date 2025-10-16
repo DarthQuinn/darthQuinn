@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, Soy Jean Siabato 👋</h1>
 </div>
-<img src="https://www.canva.com/design/DAG1_sOilGU/vaFWN7wG2HhNwxSqTZD0Rg/view?utm_content=DAG1_sOilGU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4cb3bdf703">
+<img src="https://www.canva.com/design/DAG1_sOilGU/vaFWN7wG2HhNwxSqTZD0Rg/view?utm_content=DAG1_sOilGU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4cb3bdf703>
 
 ## Sobre mi
 
