@@ -1,15 +1,16 @@
 <div align="center">
 <h1 align="center">Hola, Soy Jean Siabato 👋</h1>
 </div>
-<img src="file:///C:/Users/JeanN/OneDrive/Im%C3%A1genes/Blue%20Green%20Geometric%20Company%20LinkedIn%20Banner.png">
+<!--<img src="file:///C:/Users/JeanN/OneDrive/Im%C3%A1genes/Blue%20Green%20Geometric%20Company%20LinkedIn%20Banner.png">--!>
 
+![Mi imagen](file:///C:/Users/JeanN/OneDrive/Im%C3%A1genes/Blue%20Green%20Geometric%20Company%20LinkedIn%20Banner.png)
 ## Sobre mi
 
 -  Detrás de cada proceso hay un patrón que puede optimizarse, descubrirlo y mejorarlo es lo que me motiva a analizar los datos. Me fascina entender cómo los datos transforman la eficiencia de cada línea de producción y mejoran los resultados.
 
--En mi formación en análisis de datos, he reforzado mi pensamiento lógico, programación en Python y visualización de información con Power BI. 
+- En mi formación en análisis de datos, he reforzado mi pensamiento lógico, programación en Python y visualización de información con Power BI. 
 
--Mi objetivo es aplicar este conocimiento en entornos donde los datos sean el puente entre la mejora continua y la innovación.
+- Mi objetivo es aplicar este conocimiento en entornos donde los datos sean el puente entre la mejora continua y la innovación.
 
 <br>
 <!--
