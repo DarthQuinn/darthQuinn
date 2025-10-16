@@ -12,7 +12,7 @@
 - En mi formación en análisis de datos, he reforzado mi pensamiento lógico, programación en Python y visualización de información con Power BI. 
 
 - Mi objetivo es aplicar este conocimiento en entornos donde los datos sean el puente entre la mejora continua y la innovación.
-
+Actualmente estoy haciendo un bootcamp en analisis de datos.
 <br>
 <!--
 **DarthQuinn/darthQuinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
