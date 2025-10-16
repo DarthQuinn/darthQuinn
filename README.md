@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, Soy Jean Siabato 👋</h1>
 </div>
-<img src=https://data-analista-jean-siabato.my.canva.site/blue-green-geometric-company-linkedin-banner>
+<img src="https://data-analista-jean-siabato.my.canva.site/blue-green-geometric-company-linkedin-banner">
 
 ## Sobre mi
 
