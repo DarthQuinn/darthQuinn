@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, Soy Jean Siabato 👋</h1>
 </div>
-<img src=https://ibb.co/hJ6jDMV9>
-
+<img src="https://ibb.co/hJ6jDMV9">
+</div>
 
 ## Sobre mi
 
