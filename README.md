@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, Soy Jean Siabato 👋</h1>
 </div>
-<img src="https://ibb.co/hJ6jDMV9">
+<img src="https://i.ibb.co/XrQgS4tL/Blue-Green-Geometric-Company-Linked-In-Banner.png" alt="Blue-Green-Geometric-Company-Linked-In-Banner" border="0">
 </div>
 
 ## Sobre mi
