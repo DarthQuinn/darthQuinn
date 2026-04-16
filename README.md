@@ -1,7 +1,7 @@
 <a href="https://ibb.co/rfMbX87z" style="display: block; width: 100%;">
   <img 
-    src="https://i.ibb.co/k603PbHw/Blue-Green-Geometric-Company-Linked-In-Banner.png" 
-    alt="Blue-Green-Geometric-Company-Linked-In-Banner" 
+    <a href="https://ibb.co/wZjK4BkT"><img src="https://i.ibb.co/HL3rqBS0/Blue-Green-Geometric-Company-Linked-In-Banner-1.png"
+    alt="Blue-Green-Geometric-Company-Linked-In-Banne" 
     style="width: 100%; height: auto; display: block; border: 0;"
   >
 </a>
